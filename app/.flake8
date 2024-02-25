@@ -5,3 +5,7 @@ exclude =
     __pycache__,
     manage.py,
     settings.py
+    admin.py
+    ./core/admin.py
+    ./core/views.py
+    ./core/models.py
